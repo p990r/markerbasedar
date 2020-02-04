@@ -1,7 +1,5 @@
 import cv2
 from graphics import get_img, resize_image, get_files, main_search
-from functools import reduce
-import operator
 
 # All 6 methods of comparison in a list
 methods = ['cv2.TM_CCOEFF', 'cv2.TM_CCOEFF_NORMED', 'cv2.TM_CCORR',

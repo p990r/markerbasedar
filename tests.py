@@ -1,5 +1,5 @@
 '''
-This class provides unit testing to graphics functions
+This class contains unit testing to graphics functions
 '''
 
 import graphics
