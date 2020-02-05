@@ -9,6 +9,8 @@ The libraries needed in order to run this code:
 * `OpenCV`
 
 ## Run
+Run `main.py`.
+
 This software uses a template/marker image named `marker.jpeg`. The virtual images are found in `/images` folder. This marker can be either printed or displayed on a different screen so the camera can identify it.
 
 When running the code, the webcam of your machine is activated.
