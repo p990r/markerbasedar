@@ -1,5 +1,5 @@
 # Marker Based Augmented Reality 
->This is a basic marker based Augmented Reality software built with Python. A marker image is tracked in order to trigger and display a virtual image where it is located.
+>This is a basic marker based Augmented Reality software built with Python. A marker image is tracked in order to trigger and display an image where it is located.
 
 
 ## Dependencies
@@ -11,11 +11,11 @@ The libraries needed in order to run this code:
 ## Run
 Run `main.py`.
 
-This software uses a template/marker image named `marker.jpeg`.
+This software uses a template/marker image named `marker.jpeg`. This marker can be either printed or displayed on a different screen so the camera can identify it.
 
 ![](marker.jpeg)
 
-The virtual images are found in `/images` folder. This marker can be either printed or displayed on a different screen so the camera can identify it.
+The images that will be displayed by the software are found in `/images` folder. 
 
 When running the code, the webcam of your machine is activated.
 
